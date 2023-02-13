@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-mergeDebugResources-62:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-main-65:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-mergeDebugResources-62:\\layout\\activity_index.xml",
+        "source": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-main-65:\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-mergeDebugResources-62:\\layout\\activity_navigation_drawer.xml",
+        "source": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-main-65:\\layout\\activity_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-mergeDebugResources-62:\\layout\\activity_image_details.xml",
+        "source": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-main-65:\\layout\\activity_image_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-mergeDebugResources-62:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-main-65:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "com.example.myfridge.app-mergeDebugResources-62:/layout/activity_index.xml",
+        "source": "com.example.myfridge.app-main-65:/layout/activity_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-mergeDebugResources-62:\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\TFG\\.gradle\\daemon\\7.5\\com.example.myfridge.app-main-65:\\layout\\activity_auth.xml"
+    }
+]

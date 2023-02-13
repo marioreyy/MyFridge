@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1059127550578-a1h7vacp1ha1lpk39khpvdsjr626j9ru.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://myfridge-a4232-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1059127550578</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtBy6_fcyvScCj2MwqR491eo0KhG1bWKk</string>
+    <string name="google_app_id" translatable="false">1:1059127550578:android:0cb7f3a898ddeb12b498eb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtBy6_fcyvScCj2MwqR491eo0KhG1bWKk</string>
+    <string name="google_storage_bucket" translatable="false">myfridge-a4232.appspot.com</string>
+    <string name="project_id" translatable="false">myfridge-a4232</string>
+</resources>
